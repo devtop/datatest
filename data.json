@@ -1,0 +1,23 @@
+{
+   "name":"Die Zukunft gestalten",
+   "version":1.0,
+   "tag":[
+      "<workinprogress>",
+      "<beta>",
+      "designthinking",
+      "visual"
+   ],
+   "level":[
+      "<medium>"
+   ],
+   "license":"MIT",
+   "language":"de",
+   "description":"<DESCRIPTION>",
+   "banner":"<BANNER_GRAPHIC>",
+   "credits":"<LEGAL_CREDITS>",
+   "start_chapter":"000-intro",
+   "point_limits":{
+      "min":0,
+      "max":100
+   }
+}
